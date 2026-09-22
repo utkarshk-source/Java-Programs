@@ -2,7 +2,7 @@
 Loops in java:\
 ==============
 
-While loop:
+While loop  :
 -----------
 
 Example=
